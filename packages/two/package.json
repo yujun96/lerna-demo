@@ -20,6 +20,7 @@
     "test": "node ./__tests__/two.test.js"
   },
   "dependencies": {
+    "@yj/one": "^0.0.0",
     "dayjs": "^1.11.6"
   }
 }
