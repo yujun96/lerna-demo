@@ -2,7 +2,7 @@
   "name": "@yj/two",
   "version": "0.0.0",
   "description": "> TODO: description",
-  "author": "jun.yu <yujun@linklogis.com>",
+  "author": "jun.yu",
   "homepage": "",
   "license": "ISC",
   "main": "lib/two.js",
@@ -21,6 +21,8 @@
   },
   "dependencies": {
     "@yj/one": "^0.0.0",
+    "bigjs": "^0.0.3",
+    "chalk": "^5.1.2",
     "dayjs": "^1.11.6"
   }
 }

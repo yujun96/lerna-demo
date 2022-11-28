@@ -2,7 +2,7 @@
   "name": "@yj/one",
   "version": "0.0.0",
   "description": "> TODO: description",
-  "author": "jun.yu <yujun@linklogis.com>",
+  "author": "yujun",
   "homepage": "",
   "license": "ISC",
   "main": "lib/one.js",
